@@ -3,23 +3,23 @@
 
 Projects must operate in a broad organizational environment
 
-* Project managers need to use systems thinking:
-1. Taking a holistic view of carrying out projects within the context of
+1. Project managers need to use systems thinking:
+* Taking a holistic view of carrying out projects within the context of
 the organization
 
 ## Systems Approach
 
-1. ### Systems philosophy
+* ### Systems philosophy
 
-An overall model for thinking about things as systems
+1. An overall model for thinking about things as systems
 
-2. ### Systems analysis
+* ### Systems analysis
 
-Problem-solving approach
+2. Problem-solving approach
 
-3. ### Systems management
+* ### Systems management
 
-Address business, technological, and organizational
+3. Address business, technological, and organizational
 issues before making changes to systems
 
 [Defining a project management system](https://www.pmi.org/learning/library/defining-project-management-systems-approach-1752)
